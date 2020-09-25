@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UltimateAngular/typescript-basics-seed.git"
+    "url": "git+https://github.com/tyboyer/typescript-basics-seed.git"
   },
   "keywords": ["typescript"],
   "devDependencies": {
@@ -21,7 +21,7 @@
   "author": "Ultimate Angular",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UltimateAngular/typescript-basics-seed/issues"
+    "url": "https://github.com/tyboyer/typescript-basics-seed/issues"
   },
-  "homepage": "https://github.com/UltimateAngular/typescript-basics-seed#readme"
+  "homepage": "https://github.com/tyboyer/typescript-basics-seed#readme"
 }
